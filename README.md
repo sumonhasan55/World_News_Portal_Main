@@ -1,16 +1,2 @@
-## Getting Started
-
-Clone This Starter File
-
-Then, run 
-```bash
-npm install
-#or
-npm i
-
-After that, run the development server:
-
-```bash
-npm run dev
-
-"# World_News_Portal_Main" 
+#Name: World_News_Portal
+![World_News_Porlat](https://github.com/sumonhasan55/World_News_Portal_Main/assets/96830779/d8a9ef0f-3e78-4def-992c-28192a848214)
